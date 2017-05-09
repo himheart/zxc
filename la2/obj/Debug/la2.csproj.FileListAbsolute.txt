@@ -1,0 +1,10 @@
+D:\lab2\la2\bin\Debug\la2.exe.config
+D:\lab2\la2\obj\Debug\la2.exe
+D:\lab2\la2\obj\Debug\la2.pdb
+D:\lab2\la2\bin\Debug\la2.exe
+D:\lab2\la2\bin\Debug\la2.pdb
+D:\lab2\la2\bin\Debug\BusinessCard.dll
+D:\lab2\la2\bin\Debug\CreditCard.dll
+D:\lab2\la2\bin\Debug\CreditCard.pdb
+D:\lab2\la2\bin\Debug\BusinessCard.pdb
+D:\lab2\la2\obj\Debug\la2.csprojResolveAssemblyReference.cache

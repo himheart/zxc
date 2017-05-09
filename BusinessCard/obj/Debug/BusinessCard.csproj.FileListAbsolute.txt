@@ -1,0 +1,5 @@
+D:\lab2\BusinessCard\bin\Debug\BusinessCard.dll
+D:\lab2\BusinessCard\bin\Debug\BusinessCard.pdb
+D:\lab2\BusinessCard\obj\Debug\BusinessCard.csprojResolveAssemblyReference.cache
+D:\lab2\BusinessCard\obj\Debug\BusinessCard.dll
+D:\lab2\BusinessCard\obj\Debug\BusinessCard.pdb
